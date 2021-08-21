@@ -1,7 +1,5 @@
-### Repositorio prueba IEXE 
+### Repositorio prueba
 
-Repositorio prueba 
+IEXE Repositorio prueba 
 
-#### Actividades GIT 
-
-Ejercicios de git
+ #### Actividades GIT
